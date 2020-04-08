@@ -2,7 +2,7 @@ Hello World :)
 
 Here, I will be deconstructing the Google Homepage and rebuilding it. This project is meant to consolidate and showcase what I have learned so far in HTML/CSS based on The Odin Project's curriculum. 
 
-Exciting features I will be showcasing:
+Exciting features I will be showcasing (in progress): 
     - CSS Flexbox! This will allow me to build a responsive web design that adapts to varying viewport sizes. 
     - I thought it would be interesting to link the easy version to the difficult version through user input into the search bar and hit "enter".
     - Something new that isn't part of the curriculum, but I thought would be an interesting challenge: to learn to build a toggle button and a pop-up menu.
