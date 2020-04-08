@@ -5,6 +5,7 @@ body {
 }
 header {
     min-width: 980px;
+    margin: 20px 5px
 }
 ul {
     list-style-type: none;
